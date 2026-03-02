@@ -10,14 +10,14 @@ A professional changelog management system demonstrating Git version control bes
 - Create professional release documentation
 - Show Git tag and release management
 
-- 📊 Key Learnings
+## 📊 Key Learnings
 Semantic versioning (MAJOR.MINOR.PATCH)
 Git branching workflows
 Release management
 Changelog best practices
 Git tag usage
 
-🔜 Future Enhancements
+## 🔜 Future Enhancements
 GitHub Actions automation
 Automated release notes
 Version comparison tool
