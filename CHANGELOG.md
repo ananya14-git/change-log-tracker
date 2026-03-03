@@ -34,3 +34,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Initial release of Changelog Tracker
 - Basic markdown formatting
 - Version folder structure
+
+## [2.0.0-alpha] - Experimental
+### Added
+- AI-powered changelog suggestions
+- Automatic version bumping
+- Slack integration
+
