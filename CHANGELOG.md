@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Initial project structure
 - Basic changelog format
+### Added
+- Automated changelog generation script
+- Scripts directory for utilities
+- Git commit history integration
 
 ### Changed
 - N/A
