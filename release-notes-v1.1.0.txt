@@ -1,0 +1,2 @@
+- updated the versions file for v1.1.0
+- modified changelog generation script
