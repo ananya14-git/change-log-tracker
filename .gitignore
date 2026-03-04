@@ -9,3 +9,5 @@ Thumbs.db
 
 # Logs
 *.log
+AUTO_CHANGELOG.md
+release-notes-*.txt
